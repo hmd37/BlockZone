@@ -6,7 +6,7 @@ Main module for BlockZone application.
 import argparse
 import logging
 import sys
-from typing import Optional
+
 
 class BlockZone:
     """Main class for BlockZone functionality."""
